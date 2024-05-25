@@ -60,6 +60,7 @@ a.button:hover {
     color: black;
     cursor: pointer;
     background-color: #4169E1;
+    transition: all 0.5s ease;
 }
 h2 {
     font-family: sans-serif;
